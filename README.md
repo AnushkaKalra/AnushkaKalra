@@ -1,5 +1,5 @@
 <h1 align="center">Anushka Kalra</h1>
-<h3 align="center">A passionate frontend developer and aspire to be an Artificial Intelligence Engineer.</h3>
+<h3 align="center">A passionate frontend developer, aspire to be an Artificial Intelligence Engineer.</h3>
 
 - 🔭 I’m currently working on **Flutter project based on AI**
 
