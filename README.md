@@ -1,9 +1,9 @@
 <h1 align="center">Anushka Kalra</h1>
-<h3 align="center">A passionate frontend developer, aspire to be an Artificial Intelligence Engineer.</h3>
+<h3 align="center">A passionate Flutter developer, aspire to be an Artificial Intelligence Engineer.</h3>
 
 - 🔭 I’m currently working on **React based website**
 
-- 🌱 I’m currently learning **Flutter, Python and MySQL**
+- 🌱 I’m currently learning **Flutter and Python**
 
 - 📫 How to reach me **kalraanushka@gmail.com**
 
