@@ -1,5 +1,5 @@
 ## 🚀 About Me: Anushka Kalra
-Final year Computer Science Engineering student | Tech Enthusiast | Adobe India WIT & AWS AI&ML Scholar 2023 | Python | C | OpenCV | Flutter | Machine Learning | Leadership | Seeking collaborative tech opportunities
+Final year Computer Science Engineering student | Tech Enthusiast | Adobe India WIT Scholar 2023 | AWS AI&ML Scholar 2023 | Python | C | OpenCV | Flutter | Machine Learning | Leadership | Seeking collaborative tech opportunities
 
 
 ### Know more
