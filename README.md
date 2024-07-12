@@ -5,7 +5,7 @@ Final year Computer Science Engineering student | Tech Enthusiast | Adobe India 
 ### Know more
 👩‍💻 I'm currently working on a GenAI project.
 
-🧠 I'm currently learning JavaScript.
+🧠 I'm currently learning Artificial Intelligence and Machine Learning.
 
 👯‍♀️ I'm currently seeking internships and full-time roles in the domains of Software development, Machine learning or Flutter development.
 
