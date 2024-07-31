@@ -1,14 +1,13 @@
 ## 🚀 About Me: Anushka Kalra
-Final year Computer Science Engineering student | Tech Enthusiast | Adobe India WIT Scholar 2023 | AWS AI&ML Scholar 2023 | Python | C | Amazon Web Services | Flutter | Machine Learning | Seeking collaborative tech opportunities
+Final year Computer Science Engineering student | Tech Enthusiast | Adobe India WIT Scholar 2023 | AWS AI&ML Scholar 2023 | Python | R | C | Amazon Web Services | Flutter | Machine Learning | Artificial Intelligence| Seeking collaborative tech opportunities
 
 
 ### Know more
 👩‍💻 I'm currently working on a GenAI project.
 
-🧠 I'm currently learning Artificial Intelligence and Machine Learning.
+🧠 I'm currently learning Machine Learning.
 
-👯‍♀️ I'm currently seeking internships and full-time roles in the domains of Software development, Machine learning or Flutter development.
-
+👯‍♀️ I'm currently seeking internships and full-time roles in the domains of Software development, Data Science or Artificial Intelligence & Machine learning.
 📫 How to reach me : Drop me an email at kalraanushka6@gmail.com or connect with me at my linkedin profile : https://www.linkedin.com/in/anushka-kalra-300286213/
 
 <h3 align="left">Languages and Tools:</h3>
