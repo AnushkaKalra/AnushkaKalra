@@ -3,7 +3,7 @@ Computer Science Engineering Graduate (Batch of 2024) | Tech Enthusiast | Adobe 
 
 
 ### Know more
-👩‍💻 I'm currently working on a GenAI project.
+👩‍💻 I'm currently working on a Python project.
 
 🧠 I'm currently learning Machine Learning.
 
