@@ -7,7 +7,7 @@ Computer Science Engineering Graduate (Batch of 2024) | Tech Enthusiast | Adobe 
 
 🧠 I'm currently learning Machine Learning.
 
-👯‍♀️ I'm currently seeking internships and full-time roles in the domains of Software development, Data Science or Artificial Intelligence & Machine learning.
+👯‍♀️ I'm currently seeking internships and full-time roles in the domains of Software development, Data Science, Artificial Intelligence & Machine learning.
 
 📫 How to reach me : Drop me an email at kalraanushka6@gmail.com or connect with me at my linkedin profile : https://www.linkedin.com/in/anushka-kalra-300286213/
 
