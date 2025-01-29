@@ -5,7 +5,7 @@ Computer Science Engineering Graduate (Batch of 2024) | Tech Enthusiast | Adobe 
 ### Know more
 👩‍💻 I'm currently working on a Python project.
 
-🧠 I'm currently learning Machine Learning.
+<!-- 🧠 I'm currently learning Machine Learning. -->
 
 👯‍♀️ I'm currently seeking internships and full-time roles in the domains of Software development, Data Science, Artificial Intelligence & Machine learning.
 
