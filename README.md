@@ -21,4 +21,4 @@ Computer Science Engineering Graduate (Batch of 2024) | Tech Enthusiast | Adobe 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkakalra&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="anushkakalra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkakalra&theme=dark" alt="anushkakalra" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaKalra&theme=highcontrast)](https://git.io/streak-stats)
